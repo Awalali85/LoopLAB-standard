@@ -1,0 +1,95 @@
+
+
+.navbar{
+   border-bottom: 3px solid #008ed6;
+   background: #292b2c;
+}
+
+#header-area{
+   background-image: url("../img/home.jpg");
+   background-attachment: fixed;
+   min-height: 650px;
+   background-size: cover;
+}
+
+#header-area .overly-1{
+   background-color: rgba(0, 0 , 0, 0.7);
+   min-height: 650px;
+}
+
+#header-area .header-inner{
+   padding-top: 90px;
+   padding-bottom: 50px;
+}
+.col-md-8 h2{
+   font-size: 50px;
+   color: #fff;
+
+}
+
+#header-area .fas{
+   background-color: #fff;
+   font-size: 30px;
+   color: #0669D3; 
+}
+
+.left-area{
+   background-color: #0669D3;  
+   
+}
+
+.left-area h2{
+   color: #D1D2D2;
+}
+.left-area p{
+   color: #D1D2D2;
+}
+
+.left-area form input{
+   width: 100%;
+   padding: 8px;
+   margin-top: 14px;
+   background: #D3D4D4;
+   font-size: 20px;
+   border: 1px solid #D3D4D4;
+}
+
+.left-area form input:last-of-type{
+   background-color: #0669D3;
+   border: 1px solid #fff;
+   color: #fff;
+   cursor: pointer;
+}
+
+.left-area form input:last-of-type:hover{
+   background-color:#D3D4D4;
+   color: #000;
+}
+
+
+.Awal {
+    background: #fff;
+    color: blue;
+    font-size: 37px;
+}
+.p-1{
+   color: #fff;
+   font-size: 20px;
+}
+
+.col-md-4.left-area {
+    /* min-height: 34px; */
+    height: 475px;
+}
+
+.second{
+   background-color: #000;
+   color: #fff;
+   font-size: 35px;
+}
+
+.second-1{
+   background-color: #fff;
+   color: #0669D3;
+   font-size: 35px;
+}
